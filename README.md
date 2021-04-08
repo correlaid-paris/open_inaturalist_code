@@ -1,1 +1,1 @@
-# open_inaturalist_code
+# open inaturalist code
