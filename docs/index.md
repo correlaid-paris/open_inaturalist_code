@@ -22,7 +22,7 @@
 
 ### London
 
-[![london_map](images/london_all_years.PNG)](https://albrecht-mariz.github.io/interactive_maps/maps/map_london_osm_2018_2020.html){:target="_blank"}
+[![london_map](images/london_all_years.PNG)](https://github.com/correlaid-paris/open_inaturalist_code/blob/main/docs/maps/map_london_osm_2018_2020.html){:target="_blank"}
 
 ### San Francisco
 
