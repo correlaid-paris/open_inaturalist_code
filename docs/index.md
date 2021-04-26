@@ -7,15 +7,15 @@
 
 ### London
 
-[![london_dualmap](images/london_dual.PNG)](https://albrecht-mariz.github.io/interactive_maps/maps/map_london_osm_2019_2020_dualmap.html){:target="_blank"}
+[![london_dualmap](images/london_dual.PNG)](https://correlaid-paris.github.io/open_inaturalist_code/maps/map_london_osm_2019_2020_dualmap.html){:target="_blank"}
 
 ### San Francisco
 
-[![sf_dualmap](images/sf_dual.PNG)](https://albrecht-mariz.github.io/interactive_maps/maps/map_san_francisco_osm_2019_2020_dualmap.html){:target="_blank"} 
+[![sf_dualmap](images/sf_dual.PNG)](https://correlaid-paris.github.io/open_inaturalist_code/maps/map_san_francisco_osm_2019_2020_dualmap.html){:target="_blank"} 
 
 ### Los Angeles 
 
-[![la_dualmap](images/la_dual.PNG)](https://albrecht-mariz.github.io/interactive_maps/maps/map_los_angeles_osm_2019_2020_dualmap.html){:target="_blank"}
+[![la_dualmap](images/la_dual.PNG)](https://correlaid-paris.github.io/open_inaturalist_code/maps/map_los_angeles_osm_2019_2020_dualmap.html){:target="_blank"}
 
 
 ## Development of the observations over the years
@@ -26,11 +26,11 @@
 
 ### San Francisco
 
-[![sf_map](images/sf_all_years.PNG)](https://albrecht-mariz.github.io/interactive_maps/maps/map_san_francisco_complete_final_osm.html){:target="_blank"}
+[![sf_map](images/sf_all_years.PNG)](https://correlaid-paris.github.io/open_inaturalist_code/maps/map_san_francisco_complete_final_osm.html){:target="_blank"}
 
 ### Los Angeles 
 
-[![la_map](images/la_all_years.PNG)](https://albrecht-mariz.github.io/interactive_maps/maps/map_los_angeles_complete_final_osm.html){:target="_blank"}
+[![la_map](images/la_all_years.PNG)](https://correlaid-paris.github.io/open_inaturalist_code/maps/map_los_angeles_complete_final_osm.html){:target="_blank"}
 
 
 
